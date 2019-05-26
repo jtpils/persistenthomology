@@ -15,7 +15,12 @@ $ git clone https://github.com/charlesmsiegel/persistenthomology.git
 $ cd persistenthomology
 $ python setup
 ```
-<!--## Requirements-->
+## Requirements
+
+networksx>=2.0.0
+
+numpy
+
 <!--## Documentation-->
 <!--## Usage-->
 <!--## FAQ-->
