@@ -12,7 +12,7 @@ distributed memory context
 ## Installation
 ```bash
 $ git clone URL
-$ cd WHATEVER
+$ cd persistenthomology
 $ python setup
 ```
 <!--## Requirements-->
