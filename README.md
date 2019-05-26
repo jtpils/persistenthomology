@@ -11,7 +11,7 @@ distributed memory context
 <!--## Contents-->
 ## Installation
 ```bash
-$ git clone URL
+$ git clone https://github.com/charlesmsiegel/persistenthomology.git
 $ cd persistenthomology
 $ python setup
 ```
